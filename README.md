@@ -22,6 +22,5 @@ Random r = new Random();
 ```java
 import java/util.Random;
 ```
-import는 직접 장성하지 않고 단축키인 ctrl+shift+o를 누릅니다.  
-
+import는 직접 장성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅니다.  
 
