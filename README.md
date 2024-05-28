@@ -9,4 +9,13 @@
 1. Random이라는 도구를 생성하여 사용  (1. 점 찍고 스페이스바 한번)  
 2. Math.random()명령을 사용
 3.  SecureRandom 도구를 생성하여 사용
-4.  
+
+여기서는 Random 도구를 생성합니다.  
+  
+  
+```java
+Random r = new Random();  
+```
+
+
+
